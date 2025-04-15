@@ -1,0 +1,13 @@
+# EmailJS and sensitive environment variables
+.env
+.env.*
+
+# Node modules
+node_modules/
+
+# Build output
+build/
+
+# Misc
+.DS_Store
+*.log
