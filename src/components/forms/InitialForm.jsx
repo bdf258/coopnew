@@ -76,7 +76,7 @@ const InitialForm = ({ onNext }) => {
         required
       />
       <div className="mb-4 text-xs text-gray-500">
-        what are you intending to do together. Be specific about what you have already agreed, and don't be afraid of stating that you haven't decided how you will do certain things.
+        What  you are intending to do together. Be specific about what you have already agreed, and don't be afraid of stating that you haven't decided how you will do certain things.
       </div>
       <div className="flex items-center justify-between mt-4">
         <button type="button" className="text-blue-600 underline text-sm" onClick={() => setModalOpen(true)}>
